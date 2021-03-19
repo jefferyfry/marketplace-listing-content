@@ -53,4 +53,8 @@ git push
 
 5. Submit a pull request. This will request multiple reviewers to review and approve the changes. They may request updates. In that situation, repeat steps 3, 4 and 5.
 
+[Example document review](https://github.com/iamshadmirza/TheNextBigWriter/pull/59):
+
+![Example document review](readme-images/github-review-example.png)
+
 6. When approved by the reviewers, the changes can be merged.
