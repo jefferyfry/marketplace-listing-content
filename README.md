@@ -1,4 +1,6 @@
 # Marketplace Listing Content Submission and Updates
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/925d066c-4423-4c4a-978b-efd9c7d6c1a4.svg?orgId=604336610407)](https://app.soluble.cloud/repos/details/github.com/jefferyfry/marketplace-listing-content?orgId=604336610407)  
 This repository contains the marketplace listing content for JFrog products. Git is used to track, manage and review the listing content changes. The listing content for [AWS](aws), [Azure](azure), [GCP](gcp) and [Red Hat](red-hat) are in their respective directories. Make updates to the listing content using the Git Fork and Pull Request workflow (see below).
 
 # Requirements
